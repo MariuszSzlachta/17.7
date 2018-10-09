@@ -1,5 +1,5 @@
 
-# Express and templates
+# Passport.js authentication
 
 ## What's this?
 This is kind of extension of 'Express and template' exercise. This includes Passport.js authentication library to see hidden content. This exercise explained me a philosphy of authentication via external libraries like Passport. And it was a good introduction to more advanced projects that contain third party libraries for authentication.
